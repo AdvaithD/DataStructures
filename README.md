@@ -3,10 +3,10 @@ Preparing for my Data Structures class. CS46B - Intro to Data Structures, Fall '
 
 ## File Structure
 
-### /Homework
-### /JARFiles
-### /Notes
-### /Reference
+##### /Homework
+##### /JARFiles
+##### /Notes
+##### /Reference
 
 ### JARFiles
 - All homework problems redone and packaged as jar files.
